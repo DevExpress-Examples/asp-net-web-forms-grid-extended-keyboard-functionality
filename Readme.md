@@ -49,11 +49,11 @@ function OnInit(s, e) {
 
 This example implements the following keys for the CRUD operations:
 
-F2 - Edit the selected row.  
-F3 - Insert a new row.  
-Delete - Delete the selected row.  
-Enter - Close Edit Form and save changes.  
-Esc- Close Edit Form without saving.
+* F2 - Edit the selected row.
+* F3 - Insert a new row.
+* Delete - Delete the selected row.
+* Enter - Close Edit Form and save changes.
+* Esc- Close Edit Form without saving.
 
 ## Files to Review
 
