@@ -8,7 +8,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/e4473/)**
 <!-- run online end -->
 
-This example demonstrates how to extended keyboard functionality to allow users to to edit, delete, or add new rows with a keyboard.
+This example demonstrates how to extend keyboard functionality to allow users to edit, delete, or add new rows with a keyboard.
 
 ## Implementation Details
 
@@ -46,7 +46,7 @@ function OnInit(s, e) {
 }  
 ```
 
-This example implements the following keys for the CRUD operations:
+This example implements the following keys for CRUD operations:
 
 * F2 - Edit the selected row.
 * F3 - Insert a new row.
