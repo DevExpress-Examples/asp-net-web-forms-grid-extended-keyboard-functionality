@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # Grid for ASP.NET Web Forms - How to extend keyboard functionality
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128534809/)**
-<!-- run online end -->
 
 This example demonstrates how to extend keyboard functionality to allow users to edit, delete, or add new rows with a keyboard.
 
